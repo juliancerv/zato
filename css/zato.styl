@@ -1,0 +1,228 @@
+body,html,main
+	height 100%
+	font-family: 'Montserrat', sans-serif;
+.navbar-light
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	text-transform uppercase
+	.navbar-nav .nav-link .nav-link
+		color #fff
+	
+.navegacion2
+	background-color #034b77
+	box-shadow 0px 0px 20px 0px rgba(0,0,0,0.4)
+	text-transform uppercase
+#menu a.nav-link
+	color #514e50
+	font-size 14px
+	font-weight 300
+	text-transform uppercase
+#menu .icono
+	height 74px
+#menu #navbarNav .redes
+	width 20px
+	margin 10px 5px 0 5px
+.titulos
+	background-color #f16322
+	color #fff
+	text-transform uppercase
+.gris
+	display block
+	background-color #ebebeb
+h2
+	font-size 20px
+	margin 0px
+	padding 5px
+h3
+	font-size 25px
+	color #f16322
+	font-weight 400
+	text-transform uppercase
+section#inicio
+	color #fff
+	.inicio
+		padding 6rem 3rem
+		background-image url("../img/index.jpg")
+	.intro
+		font-size 25px
+		font-weight 300
+		text-transform uppercase
+		padding 9rem 0rem 5rem 0rem
+section#quienes
+	color #514e50
+	font-weight 300
+	font-size 15px
+	.imagen
+		height 319px
+	.imagen::before
+		content ''
+		background-image url("../img/nosotrost.jpg")
+		height 100%
+		width 100%
+		position absolute
+		top 0
+		left 0
+		background-size cover
+	.frace
+			font-size 27px
+			color #fff
+			text-transform uppercase
+			font-weight 500
+			margin-top 30%
+	.acordion
+		color #f16322
+		text-transform uppercase
+		font-weight 500
+		font-size 16px
+		text-decoration none
+	.flecha
+		width 20px
+section#servicios
+	color #fff
+	background-image url("../img/bg-servicios.jpg")
+	background-size cover
+	font-weight 300
+	.titulo
+		color #fff
+		letter-spacing 3px
+		padding-bottom 5px
+		border-bottom 2px solid #f16322
+		display inline-block
+	.iconos
+		width 55px
+	.texto
+		font-size 16px
+		text-transform uppercase
+		font-weight 400
+	.texto2
+		font-size 15px
+		font-weight 300
+section#proyectos
+	color #fff
+	.cell-container
+		padding 0px
+		.image
+			display block
+			height auto
+			width 100%
+	.cell-container:hover .overlay
+		opacity .75
+	.overlay
+		background-color #f16727
+		bottom 0
+		height 100%
+		left 0
+		opacity 0
+		position absolute
+		right 0
+		transition .5s ease
+		top 0
+		margin 0px
+		text-align center
+	.overlay::before
+		content ''
+		border 1px solid #fff
+		display block
+		position absolute
+		height auto
+		bottom 0
+		top 0
+		left 0
+		right 0
+		margin 20px
+	.texto
+		width 90%
+		color #fff
+		position absolute
+		top 50%
+		left 10%
+		transform: translate(-5%, -50%)
+		-ms-transform: translate(-5%, -50%)
+		.titulo
+			font-size 20px
+			font-weight 300
+			line-height 40px
+			text-align center
+			text-transform uppercase
+		.divisor
+			background-color #fff
+			height 1px
+			width 100%
+		.sub-titulo
+			font-size 16px
+			font-weight 300
+			line-height 24px
+			margin-top 10px
+			text-align center
+section#contacto
+	color #555254
+	#mapa
+		height 260px
+	.texto
+		font-weight 300
+	.titulo
+		font-weight 500
+		font-size 17px
+	.txt
+		color #b5b5b5
+		font-weight 300
+		display inline-block
+		font-size 13px
+	input::placeholder
+		letter-spacing 2px
+		color #b5b5b5
+		font-weight 300
+		font-size 13px
+	textarea::placeholder
+		letter-spacing 2px
+		color #b5b5b5
+		font-weight 300
+		font-size 13px
+	.boton
+		background-color #f16322
+		border-color #bcb8bb
+		font-size 13px
+		font-weight 300
+		letter-spacing 2px
+	.nav-link
+		padding 0rem .2rem
+	.siguenos
+		color #f16322
+		font-size 13px
+		text-decoration none
+		margin-right 5px
+	.redes
+		width 20px
+		margin 0px 1px 0 1px
+		
+footer
+	border-top 1px solid #dfdddd
+	padding 20px 0 20px 0
+	color #514e50
+	.marca
+		font-size 11px
+		font-weight 400
+		
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700');
+
+@media (max-width: 575.98px) {
+	section#call.container-fluid .altas {font-size: 30px;}
+}
+
+.carousel-indicators li {
+    position: relative;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    background-color: rgba(255,255,255,.5);
+}
+.carousel-indicators .active {
+    background-color: #fc5203;
+}
+.modal-title {
+    color: #fc5203;
+}

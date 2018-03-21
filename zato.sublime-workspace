@@ -1,0 +1,740 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mt",
+				"mt-3 \tBootstrap 4 Class"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mt-sm",
+				"mt-sm-3 \tBootstrap 4 Class"
+			],
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"of",
+				"offset-1 \tBootstrap 4 Class"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"col-sm",
+				"col-sm-4 \tBootstrap 4 Class"
+			],
+			[
+				"offset-s",
+				"offset-sm-1 \tBootstrap 4 Class"
+			],
+			[
+				"o",
+				"offset-1 \tBootstrap 4 Class"
+			],
+			[
+				"my",
+				"my-1 \tBootstrap 4 Class"
+			],
+			[
+				"b4img",
+				"b4:image:fluid\tresponsive"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"ml",
+				"ml-5 \tBootstrap 4 Class"
+			],
+			[
+				"m",
+				"m-1 \tBootstrap 4 Class"
+			],
+			[
+				"mt-",
+				"mt-2 \tBootstrap 4 Class"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mx",
+				"mx-4 \tBootstrap 4 Class"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"pd",
+				"padding-top"
+			],
+			[
+				"fixed",
+				"fixed-top \tBootstrap 4 Class"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"Diagnos",
+				"Diagnóstico"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"b4but",
+				"b4:button\tbutton"
+			],
+			[
+				"p",
+				"p-5 \tBootstrap 4 Class"
+			],
+			[
+				"b4con",
+				"b4:grid:container\tcontainer"
+			],
+			[
+				"mb",
+				"mb-5 \tBootstrap 4 Class"
+			],
+			[
+				"tex",
+				"text-right \tBootstrap 4 Class"
+			],
+			[
+				"a",
+				"apellido1"
+			],
+			[
+				"ap",
+				"apellido"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"pt",
+				"pt-3 \tBootstrap 4 Class"
+			],
+			[
+				"pb",
+				"pb-5 \tBootstrap 4 Class"
+			],
+			[
+				"pl",
+				"pl-5 \tBootstrap 4 Class"
+			],
+			[
+				"mr",
+				"mr-0 \tBootstrap 4 Class"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"m-",
+				"m-2 \tBootstrap 4 Class"
+			],
+			[
+				"b4cont",
+				"b4:grid:container\tcontainer"
+			],
+			[
+				"marin",
+				"margin-top\tproperty"
+			],
+			[
+				"b4col",
+				"b4:grid:col\tcol"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2801,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "quienes.php",
+			"settings":
+			{
+				"buffer_size": 7010,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "servicios.php",
+			"settings":
+			{
+				"buffer_size": 11192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Archivos/Clientes/LQ/Sitio/scholas.php",
+			"settings":
+			{
+				"buffer_size": 6471,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "proyectos.php",
+			"settings":
+			{
+				"buffer_size": 2707,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contacto.php",
+			"settings":
+			{
+				"buffer_size": 5587,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/zato.styl",
+			"settings":
+			{
+				"buffer_size": 4069,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"git clone https://github.com/Yummygum/city-lights-sublime ~/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages/Theme\\ -\\ City\\ Lights  "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/julian/Desktop/zato",
+		"/Users/julian/Desktop/zato/css",
+		"/Users/julian/Desktop/zato/inc"
+	],
+	"file_history":
+	[
+		"/Volumes/Archivos/Clientes/LQ/Sitio/scholas.php",
+		"/Users/julian/Desktop/zato/inc/header.php",
+		"/Users/julian/Desktop/zato/inc/footer.php",
+		"/Users/julian/Desktop/zato/css/zato.styl",
+		"/Users/julian/Desktop/zato/js/ajax-form.js",
+		"/Users/julian/Desktop/zato/index.php",
+		"/Users/julian/Desktop/www/index.php",
+		"/Users/julian/Desktop/zato/quienes.php",
+		"/Users/julian/Desktop/htaccess",
+		"/Users/julian/Desktop/www/css/arbol.styl",
+		"/Users/julian/Desktop/www/inc/footer_common.php",
+		"/Users/julian/Desktop/www/js/ekko-lightbox.js",
+		"/Users/julian/Desktop/www/inc/footer.php",
+		"/Users/julian/Desktop/gpro/js/main.js",
+		"/Users/julian/Desktop/gpro/css/gpro.styl",
+		"/Users/julian/Desktop/gpro/index.php",
+		"/Users/julian/Library/Preferences/ByHost/com.apple.Bluetooth.87C926A2-2598-5BB0-BE58-2BF96AAC631C.plist",
+		"/Users/julian/Desktop/gpro/items.html",
+		"/Users/julian/Desktop/index.html",
+		"/Users/julian/Downloads/GraphicEx.com-phicriver-17967940-885-flat-modern-email-signatures-html-psd-files/ilsignatures/Set1/Twenty five/Blue/julian.html",
+		"/Users/julian/Downloads/GraphicEx.com-phicriver-17967940-885-flat-modern-email-signatures-html-psd-files/ilsignatures/Set1/Twenty five/Blue/Twenty five.html",
+		"/Users/julian/Downloads/index.html",
+		"/Volumes/Archivos/Clientes/LQ/Sitio/index.php",
+		"/Users/julian/Desktop/landing/ajax-form.js",
+		"/Users/julian/Downloads/us.sitesucker.mac.sitesucker/sublimeestudio.com/rocket/index.html",
+		"/Users/julian/Desktop/landing/index.html",
+		"/Users/julian/Downloads/us.sitesucker.mac.sitesucker/sublimeestudio.com/rocket/style.css",
+		"/Users/julian/Downloads/us.sitesucker.mac.sitesucker/sublimeestudio.com/rocket/css/_stars.css",
+		"/Users/julian/Downloads/coming-soon-dark-night/index.html",
+		"/Users/julian/Downloads/startbootstrap-coming-soon-gh-pages/index.html",
+		"/Users/julian/Desktop/otersa/css/otersa.styl",
+		"/Users/julian/Desktop/otersa/index.html",
+		"/Users/julian/Desktop/kcmardecortes/css/kcmardecortez.styl",
+		"/Users/julian/Desktop/kcmardecortes/index.html",
+		"/Users/julian/Desktop/kcmardecortes/productos.html",
+		"/Users/julian/Desktop/otersa/mystyle.css",
+		"/Users/julian/Desktop/kcmardecortes/contacto.html",
+		"/Users/julian/Downloads/taller-3-bootstrap/index.html",
+		"/Users/julian/Desktop/kcmardecortes/js/bootstrap.min.js",
+		"/Users/julian/Downloads/vojtasvoboda-newage/pages/home.htm",
+		"/Users/julian/Downloads/install-master/README.md",
+		"/Users/julian/Desktop/otersa/video.html",
+		"/Users/julian/Desktop/neonaaa.com/archive.html",
+		"/Users/julian/Desktop/neonaaa.com/especiales.html",
+		"/Users/julian/Desktop/neonaaa.com/nosotros.html",
+		"/Users/julian/Desktop/neonaaa.com/index.html",
+		"/Users/julian/Desktop/neonaaa.com/anuncios-luminosos.html",
+		"/Users/julian/Desktop/neonaaa.com/letra-de-canal.html",
+		"/Users/julian/Desktop/neonaaa.com/portafolio.html",
+		"/Users/julian/Desktop/neonaaa.com/impresion.html",
+		"/Users/julian/Desktop/neonaaa.com/termoformados.html",
+		"/Users/julian/Desktop/neonaaa.com/single-project.html",
+		"/Users/julian/Desktop/neonaaa.com/contacto.html",
+		"/Users/julian/Desktop/neonaaa.com/vintage.html",
+		"/Users/julian/Desktop/neonaaa.com/router-cnc.html",
+		"/Users/julian/Desktop/neonaaa.com/single.html",
+		"/Volumes/Archivos/Archivos SHERPA/sherpa-web/inc/head_common.php",
+		"/Volumes/Archivos/Clientes/LQ/Sitio/ciencias-educacion-doctorado-1.php",
+		"/Users/julian/Downloads/clickheat/config.php",
+		"/Users/julian/Downloads/clickheat/README.md",
+		"/Volumes/Archivos/Clientes/LQ/Sitio/promociones.php",
+		"/Volumes/Archivos/Clientes/LQ/Sitio/diplomados-cursos.php",
+		"/Volumes/Archivos/Clientes/LQ/Sitio/inc/header.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"honestidad",
+			"logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1980,
+								1980
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "quienes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3403,
+								3418
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 505.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "servicios.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8731,
+								8731
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1429.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/Archivos/Clientes/LQ/Sitio/scholas.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5197,
+								5197
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 562.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "proyectos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2690,
+								2690
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "contacto.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3456,
+								3441
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 573.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/zato.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4060,
+								4060
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2553.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "zato.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
